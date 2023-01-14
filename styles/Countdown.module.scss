@@ -1,0 +1,19 @@
+.change_container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    .countdown {
+        >div {
+
+            font-size: 3rem;
+        }
+    }
+
+    input {
+        width: 60px;
+        text-align: center;
+        margin-left: 10px
+    }
+}

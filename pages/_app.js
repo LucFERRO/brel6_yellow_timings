@@ -6,7 +6,7 @@ function MyApp({ Component, pageProps }) {
     return <>
         <Head>
             <title>TEMPLATENEXT</title>
-            <link rel="icon" href="snorlax.gif" type="image/gif" />
+            <link rel="icon" href="brelshazaicon.png" type="image/png" />
         </Head>
         <Component {...pageProps} />
     </>
